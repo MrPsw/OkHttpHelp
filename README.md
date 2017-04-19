@@ -1,7 +1,10 @@
 # OkHttpHelp
 1.Builder（建造者模式） 封装 OKhttp 
+<br />
 2.统一消息提示
+<br />
 3.统一的dalog提示（可配置）       isProgress(true)
+<br />
 4.添加header（可配置）           header()
 5.发送到Handler处理数据（可配置） sendHandler(mHandler, 1)
 6.可选get post请求方式（可配置） .Get()or.Post()
