@@ -6,9 +6,13 @@
 3.统一的dalog提示（可配置）       isProgress(true)
 <br />
 4.添加header（可配置）           header()
+<br />
 5.发送到Handler处理数据（可配置） sendHandler(mHandler, 1)
+<br />
 6.可选get post请求方式（可配置） .Get()or.Post()
+<br />
 7.可添加拦截器                   addInterceptor()
+<br />
 8.可添加参数（单个or批量）       addParameter()or addParameters()
         
            builder = new OkHttpHelp.OkHttpBuilder()
